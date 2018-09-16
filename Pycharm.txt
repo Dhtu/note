@@ -1,0 +1,10 @@
+Ctrl + Y	删除选定的行
+Shift + Enter	另起一行
+Ctrl + Alt + Shift + L	一键pep8
+Ctrl + R	替换
+Ctrl + /	一键注释
+Ctrl+Alt+W	全屏
+Shift+Alt+F10	运行
+Esc+Shift	关闭窗口回到编辑器
+Esc	回到编辑器
+Shift+Alt+V	切换vim

@@ -1,0 +1,39 @@
+﻿Ctrl+Shift+L: 删除当前行 （这个很有用哦 因为大家常常会要删除多余的空行 哈哈 这组快捷键会让你省力不少）
+Shift+Alt+Enter: 切换全屏编辑（如果想一心一意的只写代码 让整个vs铺满全屏 感觉还不错哦）
+SHIFT + END选择至行尾 
+SHIFT + HOME选择至行开始处
+CTRL + END文档定位到最后 CTRL + HOME文档定位到最前
+tab选中代码补全	跳过引号
+Ctrl+Enter上一行
+Ctrl+shift+Enter下一行
+Ctrl+左右箭头键:一次可以移动一个单词
+1）撤销：使用组合键“Ctrl+Z”进行撤销操作； 
+2）反撤销：使用组合键“Ctrl+Y”进行反撤销操作。 
+框式选择 使用组合键“Shift+方向键（或鼠标）”即可完成框式选择。框式选择允许你同时对代码行和列进行选择。
+这对批量删除某些代码很方便的哦。 
+ctrl+减号：回退到光标上一次的位置（这个真心挺有用的）
+1）home键：定位到当前行的行首； 
+2）end键：定位到当前行的行尾。 
+注释:ctrl+K ctrl+c
+ctrl +K +D/F代码格式化
+shift+alt+enter
+ 大家不要每次手动输入测试数据，有一个比较方便的自动输入的方法，
+可以在程序所在目录创建一个文本文件in.txt，把输入数据复制进去，
+函数的输入之前加一句freopen("in.txt","r",stdin);
+_CRT_SECURE_NO_DEPRECATE
+
+
+Bookmark快捷键总结：
+
+创建书签： Ctrl K + Ctrl K。
+
+导航到下一个书签： Ctrl K + Ctrl N
+
+导航到前一个书签： Ctrl K + Ctrl P
+
+取消标书签，先浏览到该书签，然后按CtrlK+CtrlK（和创建书签相同）
+
+清除所有书签：Ctrl K + Ctrl L
+
+如果在当前文件夹中的许多文件，如果想定位到文件夹中的下一个书签，文件夹下的下一个书签快捷方式
+：Ctrl Shift K + Ctrl Shift N，上一个书签： Ctrl Shift K + Ctrl Shift P。
